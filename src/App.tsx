@@ -6,7 +6,7 @@ import ParticlesComponent from "./components/ParticlesComponent";
 import Loading from "./components/Loading.tsx";
 
 const Home = lazy(() => import("./pages/home/Home.tsx"));
-const LaunchDetails = lazy(() => import("./pages/LauncheDetails"));
+const LaunchDetails = lazy(() => import("./pages/lauchDetails/LaunchDetails"));
 
 function App() {
   return (
