@@ -51,7 +51,7 @@ React Query (TanStack Query) – gerenciamento de dados assíncronos
 1. Clone o repositório:
 
 ```sh
-$ git clone https://github.com/Victor-als/climate
+$ git clone https://github.com/Victor-als/space-x
 ```
 
 3. Instale as dependências:
